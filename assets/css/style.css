@@ -1,0 +1,23 @@
+body {
+	font-family: "Arial", Arial, sans-serif;
+}
+
+p {
+	font-family: "Arial", Arial, sans-serif;
+	font-style: bold;
+}
+
+button,
+#addSearch {
+	color: white;
+	background-color: blue;
+	margin: 5px 5px 5px 5px;
+}
+
+#searcher {
+	margin: 20px 20px 20px 20px;
+}
+
+#buttonsArea {
+	margin: 20px 20px 20px 20px;
+}
